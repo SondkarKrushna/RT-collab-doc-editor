@@ -19,3 +19,5 @@ The back-end, often built with Node.js, Python (Django or Flask), or Java (Sprin
 
 A database such as MongoDB or PostgreSQL stores user profiles, document versions, and change history. The application may also implement features like access control, version tracking, and document sharing to enhance the user experience. Overall, this type of system leverages the power of full-stack development to provide a seamless, real-time collaborative document editing experience.
 
+![Image](https://github.com/user-attachments/assets/43c51f72-c28d-4f67-8442-ba28d4498cf4)
+
