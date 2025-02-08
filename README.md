@@ -1,9 +1,14 @@
 # RT-collab-doc-editor
 *COMPANY*: CODETECH IT SOLUTIONS
+
 *NAME*: KRUSHNA VITTHAL SONDKAR
+
 *INTERN ID*: CT08NZB
+
 *DOMAIN*: FULL STACK WEB DEVELOPEMENT
+
 *DURATION*: 4 WEEKS
+
 *MENTOR*: NEELA SANTOSH
 
 A real-time collaborative document editor in full-stack web development is an application that allows multiple users to edit and collaborate on a document simultaneously over the internet. This type of application typically involves a front-end user interface, a back-end server to handle data processing, and a database for storing user information and document content.
